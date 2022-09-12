@@ -1,9 +1,20 @@
 
-public class TicTacToe {
+public class TicTacToe 
+{
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	public static void main(String[] args) 
+	{
+		System.out.print("\t|\t|\n");
+		System.out.print("\t|\t|\n");
+		System.out.print("\t|\t|\n");
+		System.out.print("  ---------------------\n");
+		System.out.print("\t|\t|\n");
+		System.out.print("\t|   X   |\n");
+		System.out.print("\t|\t|\n");
+		System.out.print("  ---------------------\n");
+		System.out.print("\t|\t|\n");
+		System.out.print("\t|\t|\n");
+		System.out.print("\t|\t|\n");
 	}
 
 }
