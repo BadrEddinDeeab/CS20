@@ -30,22 +30,6 @@ public class CRT {
 		This is similar to pressing "Enter" on your keyboard to go to a new line to type.
 		  
 		*/
-		  
-		  
-		  
-		  
-		  
-		  
-		  
-		  
-		  
-		  
-		  
-		  
-		  
-		  
-		
-
 	}
 
 }
