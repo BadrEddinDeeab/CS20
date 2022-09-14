@@ -26,7 +26,7 @@ public class ClassDemo
 		
 		System.out.println("Please enter your age: ");
 		
-		age = userage.nextInt();
+		age = userage.nextInt();	//Ensure you use the proper "next___" according to your data type
 		
 		System.out.println("The age you've entered is: " + age);
 		
