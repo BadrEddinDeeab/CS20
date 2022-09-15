@@ -12,7 +12,7 @@ public class ClassDemo
 		Scanner userinput = new Scanner(System.in);
 		
 		int age;				//To get an integer from the user |	int age (works) | int Age 2 (doesn't work) --> int Age2 (works)
-		double salary;			//To get a decimal from the user (doesn't have to be a decimal as it will automatically convert | 100 -> 100.0)
+		double salary;			//To get a decimal from the user (doesn't have to be a decimal as it will automatically convert | 100 -> 100.0
 		String name;			//To get a word or phrase from the user
 		char firstinitial;		//To get a character from the user
 			
